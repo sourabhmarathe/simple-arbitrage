@@ -2,3 +2,7 @@
 /node_modules
 /build
 /tsconfig.tsbuildinfo
+
+# keys
+*.privkey
+*.keys
